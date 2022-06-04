@@ -1,0 +1,9 @@
+.ItemContainer {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(194, 194, 194);
+}

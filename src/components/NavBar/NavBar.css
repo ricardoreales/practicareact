@@ -1,0 +1,10 @@
+.Navbarcontainer{
+    border: 1px solid red;
+    width: 100vw;
+}
+
+.NavBarButton{
+    font-size: medium;
+    padding: 15px;
+    text-transform: uppercase;
+}
